@@ -10,12 +10,12 @@
 
 <p align="center">
     <code> 
-        <a href="#Project Abstract">Project Abstract</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-demo">Work Product</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-pull-requests--issues">Working Demo</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-weekly-summary">Pull Requests</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-would-like-to-sync">Mentor</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-links">Future Scope</a>
+        <a href="#project-abstract">Project Abstract</a>&nbsp;&nbsp;&nbsp;
+        <a href="#work-product">Work Product</a>&nbsp;&nbsp;&nbsp;
+        <a href="#working-demo">Working Demo</a>&nbsp;&nbsp;&nbsp;
+        <a href="#pull-requests">Pull Requests</a>&nbsp;&nbsp;&nbsp;
+        <a href="#mentor">Mentor</a>&nbsp;&nbsp;&nbsp;
+        <a href="#links">Future Scope</a>
     </code>
 </p>
 
