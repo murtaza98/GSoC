@@ -30,8 +30,7 @@
 
 ## Work Product
 
-The final product / deliverable for this project is in the form of **Rocket.Chat APP** which is now published on Rocket.Chat Marketplace 🚀. Here are a few screenshots of both these apps
-https://imgur.com/
+The final product / deliverable for this project is in the form of **Rocket.Chat APP** which is now published on Rocket.Chat Marketplace 🚀. Here are a few screenshots of both these apps:
 
 <div align="center">
     <img src="https://i.imgur.com/cxG00zo.png" alt="google-summer-of-code">
@@ -46,6 +45,7 @@ https://imgur.com/
 
 ## Working Demo
 
+// TODO
 
 
 ## Pull Requests
