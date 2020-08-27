@@ -15,7 +15,7 @@
         <a href="#working-demo">Working Demo</a>&nbsp;&nbsp;&nbsp;
         <a href="#pull-requests">Pull Requests</a>&nbsp;&nbsp;&nbsp;
         <a href="#mentor">Mentor</a>&nbsp;&nbsp;&nbsp;
-        <a href="#links">Future Scope</a>
+        <a href="#links">Links</a>
     </code>
 </p>
 
@@ -28,11 +28,29 @@
 
 + With this new Integrations, you will be able to direct your site visitors to a Bot developed on Dialogflow and RASA. This is a very common approach which most of the businesses use now a days, where a visitor would first interact with a Bot. These bot can handle simple interactions like answering FAQ's for a business, to complex interactions like ordering a item. If these bots are not able to answer visitor questions, then the visitor would be transferred automatically to a online human agent who can address their query.  
 
+## Work Product
+
+The final product / deliverable for this project is in the form of **Rocket.Chat APP** which is now published on Rocket.Chat Marketplace 🚀. Here are a few screenshots of both these apps
+https://imgur.com/
+
+<div align="center">
+    <img src="https://i.imgur.com/cxG00zo.png" alt="google-summer-of-code">
+    <br>
+    <b> 
+        <p>
+        Screenshot of Both Apps installed on Rocket.Chat Sever
+        </p>
+    </b>
+</div>
+
+
+## Working Demo
+
 
 
 ## Pull Requests
 
-Following are a list of PR's related to the GSoC Project.
+Following are a list of PR's which I submitted during the GSoC related to the GSoC Project.
 
 | PR Link   | Description | Repository | Status | 
 | :-----------: | :------------------------------------: |:-------------: | :------:|
@@ -53,3 +71,24 @@ Following are a list of PR's related to the GSoC Project.
 | [PR #12](https://github.com/RocketChat/Apps.Dialogflow/pull/12) | [IMPROVE] Update Readme and add endpoint docs  | [Apps.Dialogflow](https://github.com/RocketChat/Apps.Dialogflow) | <img src="https://i.imgur.com/ihaDyZS.png" width=50 height=40> |
 | [PR #35](https://github.com/RocketChat/Apps.Dialogflow/pull/35) | [NEW] add support for Audio Input | [Apps.Dialogflow](https://github.com/RocketChat/Apps.Dialogflow) | <img src="https://i.imgur.com/ihaDyZS.png" width=50 height=40> |
 | [PR #36](https://github.com/RocketChat/Apps.Dialogflow/pull/36) | [NEW] Add support for audio file attachments + Merge PR ( #33, #35 )  | [Apps.Dialogflow](https://github.com/RocketChat/Apps.Dialogflow) | <img src="https://i.imgur.com/ihaDyZS.png" width=50 height=40> |
+
+<!-- Other PR's submitted during GSoC Period
+
+| PR Link   | Description | Repository | Status | 
+| :-----------: | :------------------------------------: |:-------------: | :------:| -->
+
+## Mentor
+
+**“One of the greatest values of mentors is the ability to see ahead what others cannot see and to help them navigate a course to their destination.”** *— John C. Maxwell*
+
+*At the end of my GSoC journey, I 100% agree with this quote.* 
+
+My mentor of this Project was
+
+- **RENATO BECKER** [@Github](https://github.com/renatobecker) [@LinkedIn](https://www.linkedin.com/in/renatobecker/)
+
+
+## Links
+
+- My GSoC Proposal
+- My final Presentation
