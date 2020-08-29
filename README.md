@@ -45,8 +45,8 @@ The final product / deliverable for this project is in the form of **Rocket.Chat
 
 ## Working Demo
 
-// TODO
-
+- **Rasa Integration**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ni38OV23J2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Pull Requests
 
@@ -83,12 +83,12 @@ Following are a list of PR's which I submitted during the GSoC related to the GS
 
 *At the end of my GSoC journey, I 100% agree with this quote.* 
 
-My mentor of this Project was
+Special thanks to my mentor
 
 - **RENATO BECKER** [@Github](https://github.com/renatobecker) [@LinkedIn](https://www.linkedin.com/in/renatobecker/)
 
 
 ## Links
 
-- My GSoC Proposal
-- My final Presentation
+- [My GSoC Proposal](https://docs.google.com/document/d/1sMoHVFK7bih6XIKlEb7X6QJoZ0wQXImkqwJqg4VKxpI/edit?usp=sharing)
+- [My final Presentation PPT](https://docs.google.com/presentation/d/1g4TPIJd3OPtIU5hnx6KogI2CeuSg1-GiDzI2wJ2YjK0/edit?usp=sharing)
