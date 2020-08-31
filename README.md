@@ -64,7 +64,7 @@ The final product / deliverable for this project is in the form of **Rocket.Chat
 
 ## Contributions
 
-I've attached a detailed summary of all my contributions separately [here](./Pull-Requests.md)
+I've attached a detailed summary of all my contributions separately [here](./Contributions.md)
 
 ## Mentor
 
