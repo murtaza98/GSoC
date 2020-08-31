@@ -22,7 +22,7 @@
 <center>
 
 | **Student** | Murtaza Patrawala |
-|:--------------------|:--------------------|
+|:--------------------:|:--------------------:|
 | **Organisation** | [Rocket.Chat](https://rocket.chat/) |
 | **Project** | [Omnichannel: Chatbot support for RASA and Dialogflow](https://summerofcode.withgoogle.com/projects/#6134609332404224) |
 | **GitHub** | [@murtaza98](https://github.com/murtaza98) |
