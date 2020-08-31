@@ -66,7 +66,7 @@ The final product / deliverable for this project is in the form of **Rocket.Chat
 
 - **Dialogflow and Rocket.Chat Integration Video Demo(Captions on its way)**
 
-<div align="center">
+<div align="center" style="border:1px solid black;">
     <a href="https://youtu.be/rZjvxS48RUM"><img src="https://img.youtube.com/vi/rZjvxS48RUM/maxresdefault.jpg" width="650" alt="Dialogflow and Rocket.Chat Integration Video Demo"></a>
 </div>
 
