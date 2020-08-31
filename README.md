@@ -59,7 +59,16 @@ The final product / deliverable for this project is in the form of **Rocket.Chat
 
 - **Rasa Integration Video Demo**
 
-[![Watch the video](https://img.youtube.com/vi/ni38OV23J2U/maxresdefault.jpg)](https://youtu.be/ni38OV23J2U)
+<div align="center">
+    <a href="https://youtu.be/ni38OV23J2U"><img src="https://img.youtube.com/vi/ni38OV23J2U/maxresdefault.jpg" width="650" alt="Rasa and Rocket.Chat Integration Video Demo"></a>
+</div>
+
+
+- **Dialogflow and Rocket.Chat Integration Video Demo(Captions on its way)**
+
+<div align="center">
+    <a href="https://youtu.be/rZjvxS48RUM"><img src="https://img.youtube.com/vi/rZjvxS48RUM/maxresdefault.jpg" width="650" alt="Dialogflow and Rocket.Chat Integration Video Demo"></a>
+</div>
 
 
 ## Contributions
