@@ -57,7 +57,7 @@ The final product / deliverable for this project is in the form of **Rocket.Chat
 
 ## Working Demo
 
-- **Rasa Integration Video Demo**
+- **Rasa and Rocket.Chat Integration Video Demo**
 
 <div align="center">
     <a href="https://youtu.be/ni38OV23J2U"><img src="https://img.youtube.com/vi/ni38OV23J2U/maxresdefault.jpg" width="650" alt="Rasa and Rocket.Chat Integration Video Demo"></a>
