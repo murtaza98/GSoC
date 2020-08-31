@@ -19,15 +19,7 @@
     </code>
 </p>
 
-
-| **Student** | Murtaza Patrawala |
-|:--------------------|:-------------------|
-| **Organisation** | [Rocket.Chat](https://rocket.chat/) |
-| **Project** | [Omnichannel: Chatbot support for RASA and Dialogflow](https://summerofcode.withgoogle.com/projects/#6134609332404224) |
-| **GitHub** | [@murtaza98](https://github.com/murtaza98) |
-| **Linked In** | [murtaza-patrawala-b17419166](https://www.linkedin.com/in/murtaza-patrawala-b17419166) |
-| **Email** | <a href="mailto:patrawalamurtaza52@gmail.com">patrawalamurtaza52@gmail.com</a> </br> <a href="mailto:m.patrawala@somaiya.edu">m.patrawala@somaiya.edu</a> |
-
+It was an incredible learning experience with GSoC and Rocket.Chat! I can't believe three months have passed so quick that I'm writing this final report, summarizing all the exciting work I did in these Summers
 
 ## Project Abstract
 
@@ -94,6 +86,15 @@ Special thanks to my mentor for guiding me to my destination 🙏
 
 
 ## Links
+
+| **Student** | Murtaza Patrawala |
+|:--------------------|:-------------------|
+| **Organization** | [Rocket.Chat](https://rocket.chat/) |
+| **Project** | [Omnichannel: Chatbot support for RASA and Dialogflow](https://summerofcode.withgoogle.com/projects/#6134609332404224) |
+| **GitHub** | [@murtaza98](https://github.com/murtaza98) |
+| **Linked In** | [murtaza-patrawala-b17419166](https://www.linkedin.com/in/murtaza-patrawala-b17419166) |
+| **Email** | <a href="mailto:patrawalamurtaza52@gmail.com">patrawalamurtaza52@gmail.com</a> </br> <a href="mailto:m.patrawala@somaiya.edu">m.patrawala@somaiya.edu</a> |
+
 
 - [My GSoC Proposal](https://docs.google.com/document/d/1sMoHVFK7bih6XIKlEb7X6QJoZ0wQXImkqwJqg4VKxpI/edit?usp=sharing)
 - [My final Presentation PPT](https://docs.google.com/presentation/d/1g4TPIJd3OPtIU5hnx6KogI2CeuSg1-GiDzI2wJ2YjK0/edit?usp=sharing)
