@@ -26,19 +26,21 @@
 | **Organisation** | [Rocket.Chat](https://rocket.chat/) |
 | **Project** | [Omnichannel: Chatbot support for RASA and Dialogflow](https://summerofcode.withgoogle.com/projects/#6134609332404224) |
 | **GitHub** | [@murtaza98](https://github.com/murtaza98) |
-| **Linked In** | [murtaza-patrawala-b17419166](www.linkedin.com/in/murtaza-patrawala-b17419166) |
+| **Linked In** | [murtaza-patrawala-b17419166](https://www.linkedin.com/in/murtaza-patrawala-b17419166) |
 | **Email** | <a href="mailto:patrawalamurtaza52@gmail.com">patrawalamurtaza52@gmail.com</a> </br> <a href="mailto:m.patrawala@somaiya.edu">m.patrawala@somaiya.edu</a> |
 
 </center>
 
 ## Project Abstract
 
-+ The goal for this project is to integrate chatbot platforms like Dialogflow and RASA with Rocket.Chat.
++ The goal for this project is to integrate chatbot platforms like **Dialogflow** and **RASA** with **Rocket.Chat**.
 
-+ This integrations would be helpful for the **Livechat** feature of Rocket.Chat. 
-    > Livechat is a package that adds the ability to embed a pop-up support chat to your website. For example when you want to interact with users visiting your website and help them with their problems, then this feature of RocketChat helps you with that. All you need to do embed a script on to your static website. 
++ These integrations are built to work with the **Livechat** module of Rocket.Chat. Livechat is a modern helpdesk application that helps connect a live-agent with a visitor so that the live-agent and answer visitor's queries.
 
-+ With this new Integrations, you will be able to direct your site visitors to a Bot developed on Dialogflow and RASA. This is a very common approach which most of the businesses use now a days, where a visitor would first interact with a Bot. These bot can handle simple interactions like answering FAQ's for a business, to complex interactions like ordering a item. If these bots are not able to answer visitor questions, then the visitor would be transferred automatically to a online human agent who can address their query.  
++ With these new Integrations of Dialogflow and Rasa, Rocket.Chat will now allow site visitors to interact with a Bot instead of a live-agent. These Bots would be developed and maintained on Dialogflow and RASA.
+
++ This is a very common approach which most of the businesses use nowadays, where a visitor would first interact with a Bot. These bots can handle simple interactions like answering FAQ's for a business, to complex interactions like ordering an item. If these bots are not able to answer visitor questions, then the visitor would be transferred automatically to an online live-agent who can address their query.
+
 
 ## Work Product
 
