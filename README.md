@@ -19,17 +19,15 @@
     </code>
 </p>
 
-<center>
 
 | **Student** | Murtaza Patrawala |
-|:--------------------:|:--------------------:|
+|:--------------------|:-------------------|
 | **Organisation** | [Rocket.Chat](https://rocket.chat/) |
 | **Project** | [Omnichannel: Chatbot support for RASA and Dialogflow](https://summerofcode.withgoogle.com/projects/#6134609332404224) |
 | **GitHub** | [@murtaza98](https://github.com/murtaza98) |
 | **Linked In** | [murtaza-patrawala-b17419166](https://www.linkedin.com/in/murtaza-patrawala-b17419166) |
 | **Email** | <a href="mailto:patrawalamurtaza52@gmail.com">patrawalamurtaza52@gmail.com</a> </br> <a href="mailto:m.patrawala@somaiya.edu">m.patrawala@somaiya.edu</a> |
 
-</center>
 
 ## Project Abstract
 
@@ -61,16 +59,23 @@ The final product / deliverable for this project is in the form of **Rocket.Chat
 
 - **Rasa and Rocket.Chat Integration Video Demo**
 
-<div align="center">
-    <a href="https://youtu.be/ni38OV23J2U"><img src="https://img.youtube.com/vi/ni38OV23J2U/maxresdefault.jpg" width="650" alt="Rasa and Rocket.Chat Integration Video Demo"></a>
-</div>
+<kbd>
+    <div align="center">
+        <a href="https://youtu.be/ni38OV23J2U"><img src="https://img.youtube.com/vi/ni38OV23J2U/maxresdefault.jpg" width="650" alt="Rasa and Rocket.Chat Integration Video Demo"></a>
+    </div>
+</kbd>
 
+<br/>
+<br/>
+<br/>
 
 - **Dialogflow and Rocket.Chat Integration Video Demo(Captions on its way)**
 
-<div align="center" style="border:1px solid black;">
-    <a href="https://youtu.be/rZjvxS48RUM"><img src="https://img.youtube.com/vi/rZjvxS48RUM/maxresdefault.jpg" width="650" alt="Dialogflow and Rocket.Chat Integration Video Demo"></a>
-</div>
+<kbd>
+    <div align="center" style="border:1px solid black;">
+        <a href="https://youtu.be/rZjvxS48RUM"><img src="https://img.youtube.com/vi/rZjvxS48RUM/maxresdefault.jpg" width="650" alt="Dialogflow and Rocket.Chat Integration Video Demo"></a>
+    </div>
+</kbd>
 
 
 ## Contributions
