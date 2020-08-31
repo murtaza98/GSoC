@@ -88,7 +88,7 @@ I've attached a detailed summary of all my contributions separately [here](./Con
 
 *At the end of my GSoC journey, I 100% agree with this quote.* 
 
-Special thanks to my mentor
+Special thanks to my mentor for guiding me to my destination 🙏
 
 - **RENATO BECKER** [@Github](https://github.com/renatobecker) [@LinkedIn](https://www.linkedin.com/in/renatobecker/)
 
